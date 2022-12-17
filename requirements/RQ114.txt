@@ -1,0 +1,2 @@
+RQ114	
+The subscriber manager shall store information for evolutionary events in an eventlog.

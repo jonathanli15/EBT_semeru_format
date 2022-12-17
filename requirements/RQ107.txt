@@ -1,0 +1,2 @@
+RQ107	
+The user shall be able to delete subscriptions

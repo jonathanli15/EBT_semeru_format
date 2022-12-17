@@ -1,0 +1,2 @@
+RQ140	
+The notification processing system shall automatically eliminate any events that are not longer valid as a result of the user eliminating temporary traces.

@@ -1,0 +1,2 @@
+RQ116	
+The subscriber manager shall immediately process speculative events.

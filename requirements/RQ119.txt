@@ -1,0 +1,2 @@
+RQ119	
+The subscriber manager shall restore the executable model to its prior state.

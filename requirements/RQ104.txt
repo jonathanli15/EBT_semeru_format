@@ -1,0 +1,2 @@
+RQ104	
+On registration a subscriber shall register itself under the control of a subscriber manager

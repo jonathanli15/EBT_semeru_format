@@ -1,0 +1,2 @@
+RQ129	
+On receipt of an event; the eventserver shall identify all relevant subscribers for the event.

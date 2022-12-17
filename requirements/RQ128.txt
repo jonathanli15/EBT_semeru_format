@@ -1,0 +1,2 @@
+RQ128	
+On receipt of an event message the eventserver shall record the event in an eventlog.

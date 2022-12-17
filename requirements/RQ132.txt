@@ -1,0 +1,2 @@
+RQ132	
+For speculative events; the eventserver shall construct a composite event message.

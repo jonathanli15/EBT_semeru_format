@@ -1,0 +1,2 @@
+RQ118	
+The subscriber manager shall report results indicating whether the speculative change negatively impacts other requirements and constraints.

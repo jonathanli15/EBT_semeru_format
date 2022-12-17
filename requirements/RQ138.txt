@@ -1,0 +1,2 @@
+RQ138	
+The user shall update related artifacts according to the information contained in the event messages.

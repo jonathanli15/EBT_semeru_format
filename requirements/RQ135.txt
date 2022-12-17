@@ -1,0 +1,2 @@
+RQ135	
+The eventserver shall create a composite speculative message which includes the speculative event plus all related requirements and constraint values for each impacted model.

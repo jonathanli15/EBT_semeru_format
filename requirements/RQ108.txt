@@ -1,0 +1,2 @@
+RQ108	
+A subscriber manager shall register itself with the eventserver so that it may receive relevant event messages.

@@ -1,0 +1,2 @@
+RQ134	
+The eventserver shall retrieve quantitative values related to these additional requirements and constraints through querying the requirements management tool.

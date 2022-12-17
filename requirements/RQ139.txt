@@ -1,0 +1,2 @@
+RQ139	
+The user shall eliminate unnecessary traces that were temporarily constructed by the eventserver during initial event processing.

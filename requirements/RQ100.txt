@@ -1,0 +1,2 @@
+RQ100
+Requirements shall be managed in a 3rd party requirements management tool such as DOORS.

@@ -1,0 +1,2 @@
+RQ103	
+A user shall register as a subscriber.

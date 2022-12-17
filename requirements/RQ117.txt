@@ -1,0 +1,2 @@
+RQ117	
+The subscriber manager shall re execute the model using the speculative values.

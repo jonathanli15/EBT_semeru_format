@@ -1,0 +1,2 @@
+RQ112	
+A subscriber manager shall manage traces for one or more artifacts.

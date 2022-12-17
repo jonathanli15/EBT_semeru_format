@@ -1,0 +1,2 @@
+RQ122	
+Event types shall include decomposing one requirement into two or more requirements.

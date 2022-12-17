@@ -1,0 +1,2 @@
+RQ125	
+Event types shall include deleting a requirement.

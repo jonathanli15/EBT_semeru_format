@@ -1,0 +1,2 @@
+RQ130	
+The eventserver shall differentiate between evolutionary and speculative events.

@@ -1,0 +1,2 @@
+RQ113	
+On receipt of an event message; the subscriber manager shall differentiate between speculative and evolutionary events.

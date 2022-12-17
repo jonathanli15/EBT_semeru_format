@@ -1,0 +1,2 @@
+RQ110	
+Whenever the subscriber manager first comes on line; it shall implement the pull model to retrieve outstanding event messages from the eventserver.

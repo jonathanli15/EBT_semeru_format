@@ -1,0 +1,2 @@
+RQ115	
+The user shall be able to construct speculative queries using a GUI.

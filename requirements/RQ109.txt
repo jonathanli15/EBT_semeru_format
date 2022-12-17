@@ -1,0 +1,2 @@
+RQ109	
+If the subscriber manager is online; the push model shall be used to send it event notifications in real time.

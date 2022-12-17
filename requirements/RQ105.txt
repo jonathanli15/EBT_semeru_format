@@ -1,0 +1,2 @@
+RQ105	
+The user shall establish traces between requirements and other types of artifacts by establishing a subscription from an artifact to the relevant requirement

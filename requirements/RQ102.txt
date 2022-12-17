@@ -1,0 +1,2 @@
+RQ102	
+Only registered subscribers shall be allowed to establish traces.

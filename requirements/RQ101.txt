@@ -1,0 +1,2 @@
+RQ101	
+Non-requirement artifacts shall be managed in 3rd party tools such as Rational Rose or Clear case

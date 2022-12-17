@@ -1,0 +1,2 @@
+RQ123	
+Event types shall include refining one requirement by adding an additional requirement to the existing one.

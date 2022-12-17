@@ -1,0 +1,2 @@
+RQ111	
+A subscriber manager shall receive event notifications on behalf of the artifacts that it manages.
